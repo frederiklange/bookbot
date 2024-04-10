@@ -5,6 +5,4 @@ I created a simple bookbot as a part of my journey on www.boot.dev. The bot take
 - the number of words in the book
 - a count of the number of times that a given letter from the alphabet appereared.
 
-The repository contains a sample book: Frankenstein.
-
 Feel free to try it out.
